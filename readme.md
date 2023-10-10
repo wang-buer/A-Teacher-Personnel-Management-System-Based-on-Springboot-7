@@ -10,7 +10,11 @@
 
 教师：登录注册、查看公告、申请档案变动、查看各种信息、收藏、发布帖子、报名学习等
 
+## 获取方式
 
+扫描下方，回复关键词  ：**员工** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 ## 2、项目技术
 
 后端框架：springboot、Mybatis
